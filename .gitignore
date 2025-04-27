@@ -1,0 +1,16 @@
+build
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+Makefile
+
+.generated
+.qt*
+.rcc
+qml
+qmltypes
+*_autogen
+*_qmltyperegistrations.cpp
+meta_types
+
+Vidito
